@@ -1,3 +1,4 @@
 # hi-task
 These are customer based projects...
-Author - Rowdy
+<br>
+<i>Author - Rowdy</i>
